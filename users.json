@@ -1,0 +1,23 @@
+[
+    {
+        "attempts": 3,
+        "money": 159000,
+        "nik": "rueie",
+        "password": "1234",
+        "status": "normal"
+    },
+    {
+        "attempts": 3,
+        "money": 200,
+        "nik": "tegl",
+        "password": "4321",
+        "status": "blocked"
+    },
+    {
+        "attempts": 3,
+        "money": 800,
+        "nik": "nik",
+        "password": "0304",
+        "status": "normal"
+    }
+]
